@@ -31,10 +31,10 @@ Basic Implementation:
     
     Within you your class add
     
-    public static final double NORTH_WEST_LATITUDE = 39.9639998777094;
-    public static final double NORTH_WEST_LONGITUDE = -75.17261900652977;
-    public static final double SOUTH_EAST_LATITUDE = 39.93699709962642;
-    public static final double SOUTH_EAST_LONGITUDE = -75.12462846235614;
+        public static final double NORTH_WEST_LATITUDE = 39.9639998777094;
+        public static final double NORTH_WEST_LONGITUDE = -75.17261900652977;
+        public static final double SOUTH_EAST_LATITUDE = 39.93699709962642;
+        public static final double SOUTH_EAST_LONGITUDE = -75.12462846235614;
     
     In your onCreate method
     
