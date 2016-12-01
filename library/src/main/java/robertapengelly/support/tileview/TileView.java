@@ -1,4 +1,4 @@
-package robertapengelly.support.tileview.widget;
+package robertapengelly.support.tileview;
 
 import  android.content.Context;
 import  android.graphics.Paint;
@@ -28,6 +28,8 @@ import  robertapengelly.support.tileview.hotspot.HotSpotManager;
 import  robertapengelly.support.tileview.marker.MarkerLayout;
 import  robertapengelly.support.tileview.path.CompositePathView;
 import  robertapengelly.support.tileview.tile.TileCanvasViewGroup;
+import  robertapengelly.support.tileview.widget.ScalingLayout;
+import  robertapengelly.support.tileview.widget.ZoomPanLayout;
 
 /**
  * The TileView widget is a subclass of ViewGroup that supports:
